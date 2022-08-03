@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">pbl_app</string>
+    <string name="app_name">PBｌ星座App</string>
+    <string name="item_Gemini">双子座</string>
 </resources>
