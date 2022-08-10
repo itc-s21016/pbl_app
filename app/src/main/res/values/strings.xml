@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">PBｌ星座App</string>
-    <string name="item_Gemini">双子座</string>
+    <string name="item_Gemini">ふたご座</string>
+    <string name="item_Sheep">おひつじ座</string>
+    <string name="item_Virgo">おとめ座</string>
+    <string name="item_Taurus">おうし座</string>
+    <string name="item_Libra">てんびん座</string>
+    <string name="item_Cancer">かに座</string>
+    <string name="item_Sagittarius">いて座</string>
+    <string name="item_Scorpio">さそり座</string>
+    <string name="item_Pisces">うお座</string>
+    <string name="item_Capricorn">やぎ座</string>
+    <string name="item_Aquarius">みずがめ座</string>
+    <string name="item_Leo">しし座</string>
+    <string name="bt_reload">現在地、再読込み</string>
 </resources>
