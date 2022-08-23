@@ -13,4 +13,5 @@
     <string name="item_Aquarius">みずがめ座</string>
     <string name="item_Leo">しし座</string>
     <string name="bt_reload">現在地、再読込み</string>
+    <string name="description">cat</string>
 </resources>
